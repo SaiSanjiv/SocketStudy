@@ -1,6 +1,6 @@
 # Ex.No:1a  	Study of Socket Programming
-### Register No: 212222110032
-### Name: Prabha C
+### Register No: 212223230179
+### Name: Sai Sanjiv R
 
 ## Aim: 
 To perform a study on Socket Programming
